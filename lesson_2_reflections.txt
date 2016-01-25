@@ -1,2 +1,4 @@
 In lesson two we initialized a repository
 staging area is where we first add the files after the repository is initiated, so that we can commit them
+We can use stating area and diff with no arguments to check the changes between the what we worked on and have not staged yet.
+Then we can check what we staged vs what we commited to figurer out if we have one commit per logical change with diff --staged command
