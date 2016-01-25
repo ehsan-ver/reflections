@@ -1,1 +1,2 @@
 In lesson two we initialized a repository
+staging area is where we first add the files after the repository is initiated, so that we can commit them
