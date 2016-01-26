@@ -3,3 +3,4 @@ staging area is where we first add the files after the repository is initiated, 
 We can use stating area and diff with no arguments to check the changes between the what we worked on and have not staged yet.
 Then we can check what we staged vs what we commited to figurer out if we have one commit per logical change with diff --staged command
 They are helpful when we want to do some experminents without changing the main one or still keeping them, or when we want to add some features to the project, or just making different version of it
+The diagrams and graphs help you visualzie the branch structure by showing each branch and the Head which is the current commit, and also we can figure out the branches that do not have head (detached head)
